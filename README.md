@@ -16,3 +16,9 @@ The marketing strategy focuses on two primary objectives:
 
 ## Dataset Structure
 The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
+
+
+## Insights Summary
+* Signup Rate: The percent of people who see a campaign and subsequently sign up for a Row Health plan.
+* Cost per Signup: The average dollars spent in order to acquire a signup from each campaign.
+* Click through Rate: The percent of people who see a campaign and click on the associated link.
