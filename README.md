@@ -1,4 +1,4 @@
-# Row Health Marketing Insights – Project Overview
+# AuraCare Marketing Insights – Project Overview
 
 
 ## The goal of this project is to evaluate the performance of Row Health’s marketing campaigns and surface recommendations for allocating marketing budgets across different campaign categories in the future.
