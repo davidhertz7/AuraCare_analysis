@@ -2,7 +2,7 @@
 
 Project Objective
 
-The goal of this project is to evaluate the performance of Row Health’s marketing campaigns and develop data-driven recommendations for allocating marketing budgets across different campaign categories in the future.
+## The goal of this project is to evaluate the performance of Row Health’s marketing campaigns and surface recommendations for allocating marketing budgets across different campaign categories in the future.
 
 Founded in 2016, Row Health is a medical insurance company serving thousands of customers across the United States. In 2019, the company introduced several marketing campaign categories focused on topics such as wellness, plan affordability, and preventative care. Customers can choose from four insurance plans — Bronze, Silver, Gold, and Platinum — each offering different premium levels and claim coverage rates.
 
