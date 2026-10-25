@@ -15,3 +15,4 @@ The marketing strategy focuses on two primary objectives:
 
 
 ## Dataset Structure
+The dataset consisted of three tables, including information about campaigns, signups and user demographics, as well as claims filed by customers and related claim information.
