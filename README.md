@@ -9,6 +9,6 @@ With the addition of a new data team and the need to plan its marketing budget f
 
 The marketing strategy focuses on two primary objectives:
 
-Increase customer signups by identifying the campaign categories that are most effective at attracting new customers.
+1. Increase customer signups by identifying the campaign categories that are most effective at attracting new customers.
 
-Increase brand awareness across the United States by understanding how different marketing campaigns contribute to the company’s broader marketing goals.
+2. Increase brand awareness across the United States by understanding how different marketing campaigns contribute to the company’s broader marketing goals.
