@@ -12,3 +12,6 @@ The marketing strategy focuses on two primary objectives:
 1. Increase customer signups by identifying the campaign categories that are most effective at attracting new customers.
 
 2. Increase brand awareness across the United States by understanding how different marketing campaigns contribute to the company’s broader marketing goals.
+
+
+## Dataset Structure
