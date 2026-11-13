@@ -24,4 +24,4 @@ The dataset consisted of three tables, including information about campaigns, si
 * **Cost per Signup**: The average dollars spent in order to acquire a signup from each campaign.
 * **Click through Rate**: The percent of people who see a campaign and click on the associated link.
 
-
+### **Signup Rate**
