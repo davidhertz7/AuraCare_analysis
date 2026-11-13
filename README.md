@@ -25,3 +25,6 @@ The dataset consisted of three tables, including information about campaigns, si
 * **Click through Rate**: The percent of people who see a campaign and click on the associated link.
 
 #### **Signup Rate**
+
+#### **Click through Rate**
+
