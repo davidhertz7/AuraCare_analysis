@@ -39,6 +39,9 @@ The dataset consisted of three tables, including information about campaigns, si
 
 * Golden Years Security had both the worst performance when it comes to CTR(Click Through Rate)(1.4%) and the highest CPC(Cost Per Click)($0.68) - Way under average at 9.39%
 
+* Family Coverage Plan had high impressions but no clicks - this needs to be investigated and could be due to missing data or issues with the campaign.
+
+
 
 #### **Cost per Signup**
 
