@@ -28,10 +28,12 @@ The dataset consisted of three tables, including information about campaigns, si
 - **Overall Trends:** Total Signups from 2019 - 2023 was 16,338 ranging in yearly sinups 865 to 5,154.  Overall average across all years 3267. While AuraCare peaked in signups 2020(5K) notable is that 2021 had both a 0.3% higher signup_rate and a $0.6 lower cost per signup
 
 * Top performing campaign categories are Health For All that had the best performing signup rate of 8.16% more then 4x better then overall average and  the second highest sign up count of 3,545 and #CoverageMatters with an signup rate of 4.76% and a signup count of 3,536
-
+  
+* This high signup rate is due to the Campaign Types Product Promotion(5.3%) and Health Awareness(2.7%), which had by far the highest signup rate across all campaign types.
+  
 * Interestingly the campaign category with the highest signups #HealthyLiving had comparably a low signup rate 2.8% - Health For All had a 3x higher signup rate 
 
-* This high signup rate is due to the Campaign Types Product Promotion(5.3%) and Health Awareness(2.7%), which had by far the highest signup rate across all campaign types.
+
 
 
 
