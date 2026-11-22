@@ -29,7 +29,19 @@ The dataset consisted of three tables, including information about campaigns, si
 
 * Top performing campaign categories are Health For All that had the best performing signup rate of 8.16% more then 4x better then overall average and  the second highest sign up count of 3,545 and #CoverageMatters with an signup rate of 4.76% and a signup count of 3,536
 
+* Interestingly the campaign category with the highest signups #HealthyLiving had comparably a low signup rate 2.8% - Health For All had a 3x higher signup rate 
+
+* 
+
 
 #### **Click through Rate**
 
 #### **Cost per Signup**
+
+* #CoverageMatters  had the lowest  cost per signup $0.7 out of all campaigns $3 cheaper then the average. Campaign type Product Information drove this low cost which #CoveragMatters only recorded a cost per signup of $0.3.
+
+* Across all campaign categories, Golden Years Security had by far the highest cost per signup ($176) aswell as the lowest signup count 23. compared to an average of $3.7 
+
+* Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup
+
+
