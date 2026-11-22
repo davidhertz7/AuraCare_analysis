@@ -25,7 +25,8 @@ The dataset consisted of three tables, including information about campaigns, si
 * **Click through Rate**: The percent of people who see a campaign and click on the associated link.
 
 #### **Signup Rate**
-* **Oerall Trends:**
+- **Oerall Trends:** Total Signups from 2019 - 2023 was 16,338 ranging in yearly sinups 865 to 5,154.  Overall average across all years 3267
+
 #### **Click through Rate**
 
 #### **Cost per Signup**
