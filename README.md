@@ -56,10 +56,10 @@ The dataset consisted of three tables, including information about campaigns, si
 
 ## Recommendations
 
-* **Health for All**: Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($20K) on them.
+* **Health for All**: Reallocate budget from Golden Years Security, which has high cost per acquisition, to Health for All campaigns. The second category outperforms across all key metrics, yet we have invested a relatively low amount ($4K) on them.
   
-* **Health Awareness**: Within Health for All campaigns, focus on health awareness-type marketing, and less on product promotion-type campaigns, which had low signup rate and CTR.
+* **Health Awareness**: Within Health for All campaigns, focus on health awareness-type marketing, and less on policy and product promotion-type campaigns, which had low signup rate and CTR.
 
-* **COVID Campaigns**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $2.2. Consider removing these campaigns altogether.
+* **COVID Campaigns**: Investigate the cause of abnormally high cost per signup for COVID-based campaigns, which had 2 signups that costed over $1K, compared to an average signup cost of $3.7. Consider removing these campaigns altogether.
   
-* **#HealthyLiving**: Decrease investment in this campaign category, which has the highest spend ($46K) but mediocre signup rates compared to Health for All campaigns.
+* **#HealthyLiving & Summer Wellness Tips**: Decrease investment in these campaign categories, which has two of the highest spend but mediocre signup rates compared to Health for All campaigns.
