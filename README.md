@@ -35,6 +35,10 @@ The dataset consisted of three tables, including information about campaigns, si
 
 
 #### **Click through Rate**
+* Health For All and Benefit Updates had across all campaign categories the highest click through rate 25.48% and 22.17% respectively - almost 3x more then average
+
+* Golden Years Security had both the worst performance when it comes to CTR(Click Through Rate)(1.4%) and the highest CPC(Cost Per Click)($0.68) - Way under average at 9.39%
+
 
 #### **Cost per Signup**
 
