@@ -31,7 +31,8 @@ The dataset consisted of three tables, including information about campaigns, si
 
 * Interestingly the campaign category with the highest signups #HealthyLiving had comparably a low signup rate 2.8% - Health For All had a 3x higher signup rate 
 
-* 
+* This high signup rate is due to the Campaign Types Product Promotion(5.3%) and Health Awareness(2.7%), which had by far the highest signup rate across all campaign types.
+
 
 
 #### **Click through Rate**
