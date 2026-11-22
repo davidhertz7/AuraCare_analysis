@@ -52,4 +52,5 @@ The dataset consisted of three tables, including information about campaigns, si
 
 * Within the two campaign categories with highest cost per signup, info-based campaign types (like offers and policy info) drove high costs per signup
 
+## Recommendations
 
